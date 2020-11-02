@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604335822749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "309776A4",
+    "lastKnownWriteTime" : 1604336333,
+    "last_content_update" : 1604336333662,
+    "path" : "~/New computer information/Masters program/Data Science I/Lab2/R/boxplot_drg.R",
+    "project_path" : "R/boxplot_drg.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

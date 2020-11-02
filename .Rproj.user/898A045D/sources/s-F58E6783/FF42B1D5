@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604335936251.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "340828963",
+    "id" : "FF42B1D5",
+    "lastKnownWriteTime" : 1604336444,
+    "last_content_update" : 1604336444303,
+    "path" : "~/New computer information/Masters program/Data Science I/Lab2/R/mean_median_sd_fn.R",
+    "project_path" : "R/mean_median_sd_fn.R",
+    "properties" : {
+        "cursorPosition" : "12,13",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
